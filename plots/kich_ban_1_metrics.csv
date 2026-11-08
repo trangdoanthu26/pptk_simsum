@@ -1,0 +1,2 @@
+Kịch bản,F1-score (Pneumonia),Recall,Precision,Macro-F1,ROC-AUC,PR-AUC,CV_F1_mean,CV_F1_std
+KB 1 (Chỉ dùng Bảng),0.1546,0.7619,0.086,0.5542,0.9559,0.3753,0.1877,0.0161
